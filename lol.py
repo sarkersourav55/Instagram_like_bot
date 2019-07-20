@@ -88,9 +88,9 @@ class bot:
 
 
 
-sourav= bot("sarkersourav55@gmail.com","@sarker.sourav.55")
+sourav= bot("email","password")
 sourav.login()
-sourav.like("Bangladeshi")
+sourav.like("hashtag")
 
 
 
